@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\",\"meterId\":\"42\",\"meterType\":\"12\",\"consumption\":\"333\",\"crc\":\"4242\",\"readTime\":\"2018-03-27T05:30:57.562\"}",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
