@@ -1,0 +1,11 @@
+{
+    "body": "{\"content\":\"new world\",\"attachment\":\"new.jpg\",\"meterId\":\"666\",\"meterType\":\"12\",\"consumption\":\"333\",\"crc\":\"4242\",\"readTime\":\"2018-03-27T05:30:57.562\"}",
+    "pathParameters": {
+        "id": "42"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
